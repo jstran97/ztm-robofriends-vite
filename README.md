@@ -4,6 +4,6 @@ Zero to Mastery (ZTM) Tutorial for creating React Web Application (React v19 + V
 
 To run the project:
 
-Clone this repo
-Run npm install
-Run npm run dev
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm run dev`
